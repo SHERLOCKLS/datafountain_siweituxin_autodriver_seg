@@ -1,6 +1,8 @@
 # datafountain_siweituxin_autodriver_seg
 competition url: https://www.datafountain.cn/competitions/366
 
+best score for MIOU: 0.23
+
 ## prerequirements:
 
 + python=3.6
